@@ -1,0 +1,9 @@
+# Python 환경 폴더들
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# 기타 OS 파일들
+.DS_Store
