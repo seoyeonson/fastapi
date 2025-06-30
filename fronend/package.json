@@ -12,5 +12,10 @@
     "@sveltejs/vite-plugin-svelte": "^5.1.0",
     "svelte": "^5.34.7",
     "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "moment": "^2.30.1",
+    "svelte-spa-router": "^4.0.1"
   }
 }
